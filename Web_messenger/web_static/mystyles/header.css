@@ -1,0 +1,18 @@
+header{
+    background-color: #fff;
+    height:70px;
+    width:100%;
+    border: #cccccc;
+    border-bottom: 1px solid #cccccc;
+    line-height: 70px;
+    text-align: left;
+    overflow: hidden;
+    vertical-align: middle;
+}
+
+header .logo{
+    background: url("../images/hbnb_logo.png") no-repeat center left 20px;
+    width: 20%;
+    height: 70px;
+    /*border: 2px solid black;*/
+}
